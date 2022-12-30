@@ -1,0 +1,307 @@
+Date: Fri, 30 Dec 2022 05:36:02 +0000 (UTC)
+Message-ID: <2086407037.409.1672378562808@442153bec0c9>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_408_2059436330.1672378562808"
+
+------=_Part_408_2059436330.1672378562808
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>How to apply for Driver&#39;s License</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>How to apply for Driver&#39;s License</h1>
+    <div class=3D"Section1">
+        <p>For seamless RTO services, the government has come up with a one=
+-stop solution. Now, you don=E2=80=99t need to step out of your home for ap=
+plying for your driving license. In just a few clicks, you would be able to=
+ apply for your license. You can also book an online appointment for your <=
+a href=3D"https://madroit360.atlassian.net/wiki/spaces/~63ab0f5d6ad11358a09=
+832a5/pages/edit-v2/229377?draftShareId=3D819d5703-21d4-4908-bd49-079037b07=
+ebd" rel=3D"nofollow">Learner License driving test</a> from the comfort of =
+your home.</p>
+<h2 id=3D"HowtoapplyforDriver'sLicense-Instructions"><img class=3D"emoticon=
+ emoticon-blue-star" data-emoji-id=3D"1f4d8" data-emoji-shortname=3D":blue_=
+book:" data-emoji-fallback=3D"\uD83D\uDCD8" src=3D"f6cf1b6c872dcfaa9ff6303b=
+9ea128f4" width=3D"16" height=3D"16" data-emoticon-name=3D"blue-star" alt=
+=3D"(blue star)">&nbsp;Instructions</h2>
+<p>Follow this step-by-step guide</p>
+<ol start=3D"1">
+<li><p>Go to the <a class=3D"external-link" href=3D"https://parivahan.gov.i=
+n/parivahan/" rel=3D"nofollow">Parivahan</a> website.</p></li>
+<li><p>On the Home page, under License related services, you will find Driv=
+ers/ Learners License, click on =E2=80=98more=E2=80=99</p></li>
+<li><p>Click on Apply for Learner License or Apply for Driving License as p=
+er your requirement</p></li>
+</ol>
+<div class=3D"confluence-information-macro confluence-information-macro-inf=
+ormation">
+<span class=3D"aui-icon aui-icon-small aui-iconfont-info confluence-informa=
+tion-macro-icon"></span>
+<div class=3D"confluence-information-macro-body">
+<p>If you are applying for the first time, then you need to click on Apply =
+for Learner License.</p>
+</div>
+</div>
+<h2 id=3D"HowtoapplyforDriver'sLicense-Relatedarticles"><img class=3D"emoti=
+con emoticon-blue-star" data-emoji-id=3D"1f4cb" data-emoji-shortname=3D":cl=
+ipboard:" data-emoji-fallback=3D"\uD83D\uDCCB" src=3D"b5a3c0a413345805c41da=
+cbf89f33162" width=3D"16" height=3D"16" data-emoticon-name=3D"blue-star" al=
+t=3D"(blue star)">&nbsp;Related articles</h2>
+<p><a href=3D"https://madroit360.atlassian.net/wiki/spaces/~63ab0f5d6ad1135=
+8a09832a5/pages/edit-v2/229377?draftShareId=3D819d5703-21d4-4908-bd49-07903=
+7b07ebd" rel=3D"nofollow">How to book an Online Test for Learner License</a=
+></p>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_408_2059436330.1672378562808
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/b5a3c0a413345805c41dacbf89f33162
+
+iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAPFBMVEVHcEzM1t3M1t3M1t3M1t3M
+1t2Zoqg9REgpLzPM1t3M1t3M1t3BaU/BaU/BaU/CcFjgtKf////M1dqZqrWLZiLOAAAADnRSTlMA
+IJ/v/zD///8QUN9Q360w504AAADiSURBVHgB7dhVgoUwEERRIIVrw/7XOoI7HRl9fRdwgKS+8J7y
+AwWowPcsCxX6VGjn+ApRnCRxBOVbQQGipC9CYAUpxAMUQ9k4KZCMAZ52WY6lBZrLM6aDVcunreNJ
+OVYth70uZ57Luun6t90BRVn11WBUDZXFiVNNcaG+o1SaQeUBqsyg6s9ADRGBERE1txDxIfprELPf
+BgnUdie1BlB3mjPoxz6Nn+zovtbw+o99I2T/abKjv78j2ZHsSHYkUOvqsLvT3EPmnyY7aohdcwMZ
+9Beg0swpD1BhBhWnP1m0KxfnHV+T0IbfZ3ihAAAAAElFTkSuQmCC
+------=_Part_408_2059436330.1672378562808
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/f6cf1b6c872dcfaa9ff6303b9ea128f4
+
+iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAq1BMVEVHcEwiZpkiZpkiZpkiZpki
+ZpkiZpkiZpkiZpk7iMMiZpnM1t0iZpnM1t07iMMiZpnM1t3M1t3M1t0iZplfnMo7iMM7iMM7iMM7
+iMMiZplVrO7M1t3h6O1ikLOswdCiusxNoeFCkc7Bz9l3nrtamsujxN3Z4efM3OhQpeZPo+OxyNjg
+5+zP2N9Ln95loM5FltM+jcg3dKJfnMpFjsaCp8PQ2eAtbZ1ql7lTqusm12cWAAAAGHRSTlMAUN/P
+IL+vYO/PcCCfzyAQv+9gMIDvYL/uJGE9AAABJklEQVR4Xu3QV27DMBBF0ZFVSDtxeiHV3FtqL/tf
+WSjyYyIBATT05CfgXcDBwwMsGWUDTUtmArqJVHs1iFrMOTLkDgETUmsOSWjXR7WYmIq+TSonReCK
+tGsxL6jVz/Yn5xxL59SFR3MrCQuNnFMVXtUNlFkodtBNSet2fWel5idpIY0QkXq3j2vTT+izpEt2
+UxfSb/RN6w6Eqd49rJpJe0DYclOWLJB63TBBavk7lPdrOnPSyhfC7t3je0IoMUD5jAuackH530MB
+ClCAAhSgAAUoQAFKuSDBBMXAA8mEB4oT4IEA/it0wgWdMUFj4IFODxBK/aCdcV7G6AAIP+jRQBfQ
+KvaBtsYZQrtE0qGvJ6Uuj6ArxVRoa5whOphIKdDO/HN91Ra+ARIL3guc4aKtAAAAAElFTkSuQmCC
+
+------=_Part_408_2059436330.1672378562808--
